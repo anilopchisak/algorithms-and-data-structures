@@ -1,0 +1,30 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "1.0.0",
+  "description": "Добро пожаловать в мой репозиторий по алгоритмам и структурам данных!  \r Здесь собраны задачи, которые я решаю для прокачки алгоритмического мышления, подготовки к собеседованиям и укрепления фундаментальных знаний.  \r Также я добавляю теоретические конспекты и разборы, чтобы систематизировать понимание решений.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilopchisak/algorithms-and-data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anilopchisak/algorithms-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/anilopchisak/algorithms-and-data-structures#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.6",
+    "typescript": "^5.9.3"
+  }
+}
